@@ -1,0 +1,11 @@
+operation,device,size,avg_time_sec
+matrix_multiplication,cpu,128,0.00011144999880343675
+matrix_multiplication,cpu,256,4.270204808562994e-05
+matrix_multiplication,cpu,512,0.00021417915122583507
+matrix_multiplication,cpu,1024,0.0018719771003816276
+matrix_multiplication,cpu,2048,0.01604079999960959
+convolution,cpu,1,0.0010597000014968216
+convolution,cpu,2,0.0015252812474500388
+convolution,cpu,4,0.0026363146025687456
+convolution,cpu,8,0.006990843749372288
+convolution,cpu,16,0.023016235401155428
